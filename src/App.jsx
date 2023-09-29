@@ -3,7 +3,7 @@ import './App.css';
 function App() {
 	return (
 		<>
-			<div className=' bg-[#98a6bd] h-full pt-20 text-start pb-4 font-karla'>
+			<div className=' bg-[#98a6bd] h-full lg:h-screen pt-20 text-start pb-4 font-karla'>
 				<div className='w-[85%] mx-auto rounded-xl overflow-hidden'>
 					<div className='bg-[#e5eff5] px-10 py-14 h-[30rem] sm:h-[28rem] md:h-[25rem]  md:pl-12'>
 						<p className='text-4xl font-bold text-[#2ab2af] pb-10'>

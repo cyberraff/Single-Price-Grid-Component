@@ -1,16 +1,17 @@
-# Frontend Mentor - Four card feature section solution
+# Frontend Mentor - Single Price Grid Component
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Single Price Grid Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Frontend Mentor - Four card feature section solution](#frontend-mentor---four-card-feature-section-solution)
+- [Frontend Mentor - Single Price Grid Component](#frontend-mentor---single-price-grid-component)
   - [Table of contents](#table-of-contents)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
     - [Built with](#built-with)
   - [Author](#author)
+
 ### The challenge
 
 Users should be able to:
@@ -19,18 +20,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-view.png)
+![Screenshot](desktop.png)
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/cyberraff/four-card-feature-section)
-- Live Site URL: [Four Card Feature Section](https://four-card-feature-section-azure-three.vercel.app/)
+- Solution URL: [GitHub](https://github.com/cyberraff/Single-Price-Grid-Component)
+- Live Site URL: [Single Price Grid Component](https://single-price-grid-component-sable-gamma.vercel.app/)
 
 ### Built with
 
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework
+- [Vite](https://vitejs.dev/) - Vite is a build tool for modern web projects that provides a fast and lean development experience
 
 ## Author
 
